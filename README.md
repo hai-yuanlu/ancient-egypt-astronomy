@@ -1,2 +1,2 @@
-# thebes-RA-hour-star
-Thebes-RA-hour-star
+# Ancient Egypt Astronomy
+Ancient Egypt Astronomy
